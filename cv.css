@@ -1,0 +1,25 @@
+body {
+    background: linear-gradient(45deg, #40A944, #60F964);
+    min-height: 100vh;
+    margin: 0;
+}
+
+.cv {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+}
+
+.cv h2 {
+    font-size: 1em;
+}
+
+.cv p {
+    font-size: 0.7em;
+}
+
+a[href="https://vk.com/sergey_kakadey1"] {
+    text-decoration: none;
+}
