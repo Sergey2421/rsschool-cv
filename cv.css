@@ -1,7 +1,20 @@
 body {
     background: linear-gradient(45deg, #40A944, #60F964);
     min-height: 100vh;
+    height: 1px;
     margin: 0;
+}
+
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 10%;
+}
+
+.header h1 {
+    margin-left: 1%;
 }
 
 .cv {
@@ -10,16 +23,26 @@ body {
     justify-content: center;
     align-items: center;
     font-size: 30px;
-}
-
-.cv h2 {
-    font-size: 1em;
+    height: 84%;
 }
 
 .cv p {
     font-size: 0.7em;
 }
 
-a[href="https://vk.com/sergey_kakadey1"] {
+.footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 6%;
+}
+
+a {
     text-decoration: none;
+}
+
+img[src="avatar.jpg"] {
+    margin-right: 1%;
+    width: 10%;
 }
