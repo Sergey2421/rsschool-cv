@@ -38,6 +38,13 @@ body {
     height: 6%;
 }
 
+.footer-nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 200px;
+}
+
 a {
     text-decoration: none;
 }
