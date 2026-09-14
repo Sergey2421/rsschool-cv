@@ -2,6 +2,6 @@
 
 ## https://vk.com/sergey_kakadey1
 
-## At the moment I am a 3rd year student of the Belarusian State University of Informatics and Radioelectronics, Faculty of Computer Systems and Networks.
+## At the moment I am taking a course RS School
 
-### English: A1-2
+### English: A2
